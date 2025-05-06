@@ -2,6 +2,7 @@
 Este projeto interativo utiliza Node.js, Vite e Three.js para oferecer uma experiência imersiva sobre as fases da Terra, incluindo rotação, translação e estações do ano.
 
 🚀 Tecnologias Utilizadas
+
 Node.js
 
 Vite
